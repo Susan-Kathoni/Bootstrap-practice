@@ -5,7 +5,8 @@ This website ([my website](https://github.com/Susan-Kathoni/Bootstrap-practice.g
 ## Technologies Used
 - HTML
 - CSS
-             
+- Bootstrap
+            
 ## Support and contact details     
 This repository is open to editions, contributions or any other suitable uses.       
           
